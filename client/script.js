@@ -86,7 +86,7 @@ const handleSubmit = async (e) => {
     // messageDiv.innerHTML = "..."
     loader(messageDiv)
 
-    const response = await fetch('https://jarvisai-dn0x.onrender.com', {
+    const response = await fetch('https://jarvisai-dn0x.onrender.comhttps://friday-xom6.onrender.com', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
